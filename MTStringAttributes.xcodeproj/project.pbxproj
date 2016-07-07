@@ -205,7 +205,7 @@
 			name = MTStringAttributesTests;
 			productName = MTStringAttributesTests;
 			productReference = C25AD64F16CB37CC00488780 /* MTStringAttributesTests.octest */;
-			productType = "com.apple.product-type.bundle";
+			productType = "com.apple.product-type.bundle.ocunit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -213,6 +213,7 @@
 		C25AD63616CB37CC00488780 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastTestingUpgradeCheck = 0730;
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Mysterious Trousers";
 			};
